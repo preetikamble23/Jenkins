@@ -11,6 +11,6 @@ static void method2(){
   public static void main(String args[]){
     System.out.println("Hello Java World");
     method();
-    mrthod2();
+    method2();
   }
 }
